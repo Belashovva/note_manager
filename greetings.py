@@ -1,7 +1,7 @@
 username = "Подопытный заметочник 1"
 title = "Заметка проекта"
 content = "Тестим"
-status = "OPEN"
+status = "Активна"
 created_date = "22-12-2024"
 issue_date = "17-06-2025"
 
